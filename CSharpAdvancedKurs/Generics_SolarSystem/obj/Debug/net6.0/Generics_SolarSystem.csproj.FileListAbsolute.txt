@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\bin\Debug\net6.0\Generics_SolarSystem.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\bin\Debug\net6.0\Generics_SolarSystem.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\bin\Debug\net6.0\Generics_SolarSystem.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\bin\Debug\net6.0\Generics_SolarSystem.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\bin\Debug\net6.0\Generics_SolarSystem.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\refint\Generics_SolarSystem.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\Generics_SolarSystem.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Generics_SolarSystem\obj\Debug\net6.0\ref\Generics_SolarSystem.dll
