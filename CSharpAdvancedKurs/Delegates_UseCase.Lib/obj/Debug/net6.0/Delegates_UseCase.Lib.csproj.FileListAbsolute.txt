@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\bin\Debug\net6.0\Delegates_UseCase.Lib.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\bin\Debug\net6.0\Delegates_UseCase.Lib.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\bin\Debug\net6.0\Delegates_UseCase.Lib.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\Delegates_UseCase.Lib.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\Delegates_UseCase.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\Delegates_UseCase.Lib.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\Delegates_UseCase.Lib.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\Delegates_UseCase.Lib.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\Delegates_UseCase.Lib.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\refint\Delegates_UseCase.Lib.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\Delegates_UseCase.Lib.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Delegates_UseCase.Lib\obj\Debug\net6.0\ref\Delegates_UseCase.Lib.dll

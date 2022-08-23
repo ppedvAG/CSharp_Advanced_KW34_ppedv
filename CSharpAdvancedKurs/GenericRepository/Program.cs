@@ -13,6 +13,16 @@ namespace GenericRepository
 
             List<Club> vereine = context.Clubs.Where(c => c.Name.Contains("Borussia")).ToList(); //Alle Borussia Vereine werden ausgegeben 
 
+
+
+            ClubRepository clubRepository = new ClubRepository(context);
+
+            IRepositoryBase<Club, int> clubRepository2 = new ClubRepository(context);
+
+            IGetQuery<Club, int> readonlyRepository = new ClubRepository(context);
+            readonlyRepository.GetByExpression(c => c.FoundationYear < 1900);
+
+
         }
     }
 
@@ -44,6 +54,8 @@ namespace GenericRepository
     {
         public int Id { get; set; } 
         public string Name { get; set; }
+
+        public int FoundationYear { get; set; }
     }
 
     public class Team
@@ -126,6 +138,10 @@ namespace GenericRepository
        
 
         public abstract void Update(T item);
+
+        public string Version()
+            => "Framework Version";
+
     }
 
     #endregion
@@ -199,8 +215,58 @@ namespace GenericRepository
     }
 
     #endregion
+    public class ADONETRepositoryBase<T, TKey> : GenericRepositoryBase<T, TKey>
+        where T : class
+    {
+
+        public ADONETRepositoryBase()
+        {
+
+        }
+        public override void Add(T item)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void AddRange(T[] items)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Delete(T item)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override List<T> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override List<T> GetByExpression(Expression<Func<T, bool>> expression)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override T GetById(TKey key)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Save()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Update(T item)
+        {
+            throw new NotImplementedException();
+        }
+    }
+    #region Andere Datenbank-Zugriff Technik
 
 
+    #endregion
     #region Erweiterungen
 
     public interface IClubRepository<T,TKey > : IRepositoryBase<T, TKey >
@@ -211,11 +277,33 @@ namespace GenericRepository
         List<Club> ReadTenOldestClubs();
     }
 
-    public class ClubRepository<Club, int> : EFRepositoryBase<Club, int>, IClubRepository<Club, int>
+    public class ClubRepository : EFRepositoryBase<Club, int>, IClubRepository<Club, int>
     {
-        public List<GenericRepository.Club> ReadTenOldestClubs()
+
+        public ClubRepository(DbContext dbContext)
+            :base(dbContext)
         {
-            throw new NotImplementedException();
+
+        }
+        public List<Club> ReadTenOldestClubs()
+        {
+            return _dbSet.OrderBy(c => c.FoundationYear).Take(10).ToList();
+        }
+    }
+
+
+    public class ClubRepository2 : ADONETRepositoryBase<Club, int>, IClubRepository<Club, int>
+    {
+
+        public ClubRepository2(DbContext dbContext)
+            : base()
+        {
+
+
+        }
+        public List<Club> ReadTenOldestClubs()
+        {
+            return new List<Club>();
         }
     }
 

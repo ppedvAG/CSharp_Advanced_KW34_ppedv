@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delegates_UseCase.Lib/1.0.0": {
+        "runtime": {
+          "Delegates_UseCase.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegates_UseCase.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

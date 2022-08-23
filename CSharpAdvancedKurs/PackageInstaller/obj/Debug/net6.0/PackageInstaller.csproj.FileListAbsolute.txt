@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\bin\Debug\net6.0\PackageInstaller.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\bin\Debug\net6.0\PackageInstaller.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\bin\Debug\net6.0\PackageInstaller.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\PackageInstaller.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\PackageInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\PackageInstaller.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\PackageInstaller.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\PackageInstaller.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\PackageInstaller.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\refint\PackageInstaller.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\PackageInstaller.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\PackageInstaller\obj\Debug\net6.0\ref\PackageInstaller.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PackageInstaller.App/1.0.0": {
+        "dependencies": {
+          "PackageInstaller": "1.0.0"
+        },
+        "runtime": {
+          "PackageInstaller.App.dll": {}
+        }
+      },
+      "PackageInstaller/1.0.0": {
+        "runtime": {
+          "PackageInstaller.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PackageInstaller.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PackageInstaller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

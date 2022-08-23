@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\bin\Debug\net6.0\DelegateActionFuncSamples.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\bin\Debug\net6.0\DelegateActionFuncSamples.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\bin\Debug\net6.0\DelegateActionFuncSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\bin\Debug\net6.0\DelegateActionFuncSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\bin\Debug\net6.0\DelegateActionFuncSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\refint\DelegateActionFuncSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\DelegateActionFuncSamples.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DelegateActionFuncSamples\obj\Debug\net6.0\ref\DelegateActionFuncSamples.dll
