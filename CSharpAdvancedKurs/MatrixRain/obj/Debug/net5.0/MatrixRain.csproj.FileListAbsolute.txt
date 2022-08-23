@@ -1,0 +1,48 @@
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\bin\Debug\net5.0\MatrixRain.exe
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\bin\Debug\net5.0\MatrixRain.deps.json
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.json
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.dev.json
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\bin\Debug\net5.0\MatrixRain.dll
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\bin\Debug\net5.0\ref\MatrixRain.dll
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\bin\Debug\net5.0\MatrixRain.pdb
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfoInputs.cache
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfo.cs
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.CoreCompileInputs.cache
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.dll
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\ref\MatrixRain.dll
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.pdb
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.genruntimeconfig.cache
+C:\Reportaire\NET6\Console\MatrixRain\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.AssemblyReference.cache
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\bin\Debug\net5.0\MatrixRain.exe
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\bin\Debug\net5.0\MatrixRain.deps.json
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.json
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.dev.json
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\bin\Debug\net5.0\MatrixRain.dll
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\bin\Debug\net5.0\MatrixRain.pdb
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.AssemblyReference.cache
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfoInputs.cache
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfo.cs
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.CoreCompileInputs.cache
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.dll
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\refint\MatrixRain.dll
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.pdb
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\MatrixRain.genruntimeconfig.cache
+C:\Versuchslabor\MatrixRainForAndre\MatrixRain\obj\Debug\net5.0\ref\MatrixRain.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\bin\Debug\net5.0\MatrixRain.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\bin\Debug\net5.0\MatrixRain.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\bin\Debug\net5.0\MatrixRain.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\bin\Debug\net5.0\MatrixRain.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\bin\Debug\net5.0\MatrixRain.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\refint\MatrixRain.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\MatrixRain.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\MatrixRain\obj\Debug\net5.0\ref\MatrixRain.dll

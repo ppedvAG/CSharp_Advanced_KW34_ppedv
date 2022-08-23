@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\bin\Debug\net6.0\006_ThreadWithState.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\bin\Debug\net6.0\006_ThreadWithState.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\bin\Debug\net6.0\006_ThreadWithState.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\bin\Debug\net6.0\006_ThreadWithState.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\bin\Debug\net6.0\006_ThreadWithState.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\refint\006_ThreadWithState.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\006_ThreadWithState.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\006_ThreadWithState\obj\Debug\net6.0\ref\006_ThreadWithState.dll

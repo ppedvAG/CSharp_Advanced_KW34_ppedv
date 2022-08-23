@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\bin\Debug\net6.0\002_Thread_mit_Parameter.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\bin\Debug\net6.0\002_Thread_mit_Parameter.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\bin\Debug\net6.0\002_Thread_mit_Parameter.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\bin\Debug\net6.0\002_Thread_mit_Parameter.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\bin\Debug\net6.0\002_Thread_mit_Parameter.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\refint\002_Thread_mit_Parameter.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\002_Thread_mit_Parameter.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\002_Thread_mit_Parameter\obj\Debug\net6.0\ref\002_Thread_mit_Parameter.dll

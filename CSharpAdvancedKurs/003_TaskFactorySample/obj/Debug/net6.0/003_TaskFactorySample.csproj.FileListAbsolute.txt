@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net6.0\003_TaskFactorySample.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net6.0\003_TaskFactorySample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net6.0\003_TaskFactorySample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net6.0\003_TaskFactorySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\bin\Debug\net6.0\003_TaskFactorySample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\refint\003_TaskFactorySample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\003_TaskFactorySample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\003_TaskFactorySample\obj\Debug\net6.0\ref\003_TaskFactorySample.dll

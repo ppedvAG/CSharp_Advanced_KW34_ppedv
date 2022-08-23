@@ -4,20 +4,19 @@ Email: KevinW@ppedv.de
 
 Themen
 
- Di:
+ Mo:
 - [ ] C# 7.0 -> C# 9 Sprach Features
 - [ ] C# 10 und Ausblick auf C#11
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 - [ ] Generics
 - [ ] Delegates, Action, Func, Callbacks, Event, EventHandler
 
-Mi:
+Di:
 - [ ] Threads
 - [ ] TPL
-- [ ] TPL -> t1.ContinueWith(task => AllgemeinerFolgetask()); -> Was kann man mit Task- task noch anstellen oder Alternative
 - [ ] async / await
 
-Do: 
+Mi: 
 - [ ] Serialization
 - [ ] Erweiterungsklassen
 - [ ] Linq / Lambda Expression 
