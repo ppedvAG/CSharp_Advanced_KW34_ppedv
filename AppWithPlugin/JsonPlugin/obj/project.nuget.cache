@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSS3MD2G+3U9G0LnSjog7hUVWYRaSPZfG6/+8yj3KBWEM7KQDdwzoG6wQKmd828hA7fm6RwHyGDNs6tlQmkjAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW34_ppedv\\AppWithPlugin\\JsonPlugin\\JsonPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

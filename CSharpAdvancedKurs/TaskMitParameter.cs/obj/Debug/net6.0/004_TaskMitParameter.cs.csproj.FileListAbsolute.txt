@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\bin\Debug\net6.0\004_TaskMitParameter.cs.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\bin\Debug\net6.0\004_TaskMitParameter.cs.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\bin\Debug\net6.0\004_TaskMitParameter.cs.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\bin\Debug\net6.0\004_TaskMitParameter.cs.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\bin\Debug\net6.0\004_TaskMitParameter.cs.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\refint\004_TaskMitParameter.cs.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\004_TaskMitParameter.cs.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\TaskMitParameter.cs\obj\Debug\net6.0\ref\004_TaskMitParameter.cs.dll

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\bin\Debug\net6.0\007_ThreadPool.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\bin\Debug\net6.0\007_ThreadPool.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\bin\Debug\net6.0\007_ThreadPool.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\bin\Debug\net6.0\007_ThreadPool.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\bin\Debug\net6.0\007_ThreadPool.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\refint\007_ThreadPool.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\007_ThreadPool.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\ThreadPool\obj\Debug\net6.0\ref\007_ThreadPool.dll

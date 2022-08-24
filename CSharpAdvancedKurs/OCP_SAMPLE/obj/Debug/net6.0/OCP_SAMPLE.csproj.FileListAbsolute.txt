@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\bin\Debug\net6.0\OCP_SAMPLE.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\bin\Debug\net6.0\OCP_SAMPLE.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\bin\Debug\net6.0\OCP_SAMPLE.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\bin\Debug\net6.0\OCP_SAMPLE.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\bin\Debug\net6.0\OCP_SAMPLE.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\refint\OCP_SAMPLE.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\OCP_SAMPLE.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\OCP_SAMPLE\obj\Debug\net6.0\ref\OCP_SAMPLE.dll

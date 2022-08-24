@@ -17,11 +17,11 @@ Di:
 - [x] async / await
 
 Mi: 
-- [ ] Serialization
-- [ ] Erweiterungsklassen
-- [ ] Linq / Lambda Expression 
-- [ ] Reflections 
-- [ ] Plugin Pattern (Optional, CodeReview)
+- [x] Serialization
+- [x] Erweiterungsklassen
+- [x] Linq / Lambda Expression 
+- [x] Reflections 
+- [x] Plugin Pattern (Optional, CodeReview)
 
 Weitere Themen (wenn Zeit vorhanden)
 - [ ] Operatoren

@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

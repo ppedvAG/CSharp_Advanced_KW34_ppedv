@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\bin\Debug\net6.0\LinqLambdaSamples.cs.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\bin\Debug\net6.0\LinqLambdaSamples.cs.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\bin\Debug\net6.0\LinqLambdaSamples.cs.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\bin\Debug\net6.0\LinqLambdaSamples.cs.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\bin\Debug\net6.0\LinqLambdaSamples.cs.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\refint\LinqLambdaSamples.cs.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\LinqLambdaSamples.cs.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\LinqLambdaSamples.cs\obj\Debug\net6.0\ref\LinqLambdaSamples.cs.dll

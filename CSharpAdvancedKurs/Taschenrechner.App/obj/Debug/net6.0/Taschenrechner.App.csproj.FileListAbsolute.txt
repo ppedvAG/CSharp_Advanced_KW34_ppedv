@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\bin\Debug\net6.0\Taschenrechner.App.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\bin\Debug\net6.0\Taschenrechner.App.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\bin\Debug\net6.0\Taschenrechner.App.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\bin\Debug\net6.0\Taschenrechner.App.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\bin\Debug\net6.0\Taschenrechner.App.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\refint\Taschenrechner.App.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\Taschenrechner.App.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\Taschenrechner.App\obj\Debug\net6.0\ref\Taschenrechner.App.dll

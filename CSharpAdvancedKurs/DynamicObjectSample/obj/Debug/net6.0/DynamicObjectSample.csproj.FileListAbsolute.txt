@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\bin\Debug\net6.0\DynamicObjectSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\bin\Debug\net6.0\DynamicObjectSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\bin\Debug\net6.0\DynamicObjectSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\bin\Debug\net6.0\DynamicObjectSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\bin\Debug\net6.0\DynamicObjectSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\refint\DynamicObjectSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\DynamicObjectSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\DynamicObjectSample\obj\Debug\net6.0\ref\DynamicObjectSample.dll

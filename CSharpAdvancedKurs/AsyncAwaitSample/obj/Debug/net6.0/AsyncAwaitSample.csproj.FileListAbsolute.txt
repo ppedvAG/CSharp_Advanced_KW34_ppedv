@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW34_ppedv\CSharpAdvancedKurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.csproj.CoreCompileInputs.cache
