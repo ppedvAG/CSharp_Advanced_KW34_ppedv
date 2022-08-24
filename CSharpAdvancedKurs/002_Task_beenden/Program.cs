@@ -5,6 +5,7 @@ namespace _002_Task_beenden
     {
         static void Main(string[] args)
         {
+            //https://stackoverflow.com/questions/14215784/why-cancellationtoken-is-separate-from-cancellationtokensource
             CancellationTokenSource cts = new CancellationTokenSource();
             CancellationToken token = cts.Token;
 

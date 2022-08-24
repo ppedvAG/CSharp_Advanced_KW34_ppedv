@@ -18,8 +18,6 @@ namespace TaskMitParameter.cs
             task2.Wait();
             Console.WriteLine(task2.Result);
 
-
-
             //Factory
             Task<string> task3 = Task.Factory.StartNew(MachEtwas, katze);
             task3.Wait();

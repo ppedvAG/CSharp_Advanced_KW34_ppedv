@@ -5,16 +5,16 @@ Email: KevinW@ppedv.de
 Themen
 
  Mo:
-- [ ] C# 7.0 -> C# 9 Sprach Features
-- [ ] C# 10 und Ausblick auf C#11
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
-- [ ] Generics
-- [ ] Delegates, Action, Func, Callbacks, Event, EventHandler
+- [x] C# 7.0 -> C# 9 Sprach Features
+- [x] C# 10 und Ausblick auf C#11
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Generics
+- [x] Delegates, Action, Func, Callbacks, Event, EventHandler
 
 Di:
-- [ ] Threads
-- [ ] TPL
-- [ ] async / await
+- [x] Threads
+- [x] TPL
+- [x] async / await
 
 Mi: 
 - [ ] Serialization

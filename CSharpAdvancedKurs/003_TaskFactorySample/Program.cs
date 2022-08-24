@@ -7,7 +7,7 @@ namespace _003_Task_Factory_Sample
         {
             //Variante 1
             //4.0 -> Task 
-            Task task1 = new Task(MacheEtwasInEinemThread, );
+            Task task1 = new Task(MacheEtwasInEinemThread);
             task1.Start();
 
             Task task1a = new Task(MachEtwas, new Katze());

@@ -35,7 +35,7 @@ namespace _005_TaskException
                 {
                     Console.WriteLine(ex2.Message);
                     Console.WriteLine("--------------------------------");
-                    Console.WriteLine(ex2.ToString());
+                    Console.WriteLine(ex2.ToString()); 
 
                     //exception.StackTrace -> Wo ist der Fehler passiert
                 }

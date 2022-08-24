@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Advanced_KW34_ppedv\\CSharpAdvancedKurs\\TaskMitParameter.cs\\TaskMitParameter.cs.csproj",
-      "projectName": "TaskMitParameter.cs",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW34_ppedv\\CSharpAdvancedKurs\\TaskMitParameter.cs\\TaskMitParameter.cs.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Advanced_KW34_ppedv\\CSharpAdvancedKurs\\TaskMitParameter.cs\\004_TaskMitParameter.cs.csproj",
+      "projectName": "004_TaskMitParameter.cs",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW34_ppedv\\CSharpAdvancedKurs\\TaskMitParameter.cs\\004_TaskMitParameter.cs.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
       "outputPath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW34_ppedv\\CSharpAdvancedKurs\\TaskMitParameter.cs\\obj\\",
       "projectStyle": "PackageReference",
