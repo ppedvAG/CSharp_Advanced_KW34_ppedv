@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BenchmarkTestRecordVsClassWithFluentPattern/1.0.0": {
+        "runtime": {
+          "BenchmarkTestRecordVsClassWithFluentPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BenchmarkTestRecordVsClassWithFluentPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
